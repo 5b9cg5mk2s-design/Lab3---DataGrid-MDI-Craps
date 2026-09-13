@@ -1,0 +1,15 @@
+C:\Users\vikst\source\repos\Craps\bin\Debug\net10.0\Craps.exe
+C:\Users\vikst\source\repos\Craps\bin\Debug\net10.0\Craps.deps.json
+C:\Users\vikst\source\repos\Craps\bin\Debug\net10.0\Craps.runtimeconfig.json
+C:\Users\vikst\source\repos\Craps\bin\Debug\net10.0\Craps.dll
+C:\Users\vikst\source\repos\Craps\bin\Debug\net10.0\Craps.pdb
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.AssemblyInfo.cs
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.dll
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\refint\Craps.dll
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.pdb
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.genruntimeconfig.cache
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\ref\Craps.dll
+C:\Users\vikst\source\repos\Craps\obj\Debug\net10.0\Craps.csproj.Up2Date

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="Persona.cs" />
+    <File Path="Utilidades.cs" />
+  </Folder>
+  <Project Path="EjemploGrid.csproj" Id="7de13e0f-9430-4efd-a046-cdb008de8418" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\vikst\source\repos\FormularioMDI\bin\Debug\FormularioMDI.exe.config
+C:\Users\vikst\source\repos\FormularioMDI\bin\Debug\FormularioMDI.exe
+C:\Users\vikst\source\repos\FormularioMDI\bin\Debug\FormularioMDI.pdb
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.Form1.resources
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.formVentanaText.resources
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.Properties.Resources.resources
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.csproj.GenerateResource.cache
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.exe
+C:\Users\vikst\source\repos\FormularioMDI\obj\Debug\FormularioMDI.pdb

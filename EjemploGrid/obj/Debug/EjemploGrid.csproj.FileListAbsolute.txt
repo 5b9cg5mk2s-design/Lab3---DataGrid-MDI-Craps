@@ -1,0 +1,10 @@
+C:\Users\vikst\source\repos\EjemploGrid\bin\Debug\EjemploGrid.exe.config
+C:\Users\vikst\source\repos\EjemploGrid\bin\Debug\EjemploGrid.exe
+C:\Users\vikst\source\repos\EjemploGrid\bin\Debug\EjemploGrid.pdb
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.Properties.Resources.resources
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.exe
+C:\Users\vikst\source\repos\EjemploGrid\obj\Debug\EjemploGrid.pdb
